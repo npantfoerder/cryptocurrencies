@@ -1,9 +1,12 @@
 # Unsupervised Machine Learning and Cryptocurrencies
 
 ## Purpose
-Accountaibility Accounting, a hypothetical investment bank, wants to offer a new cryptocurrency investment portfolio and need a report including the cryptocurrencies that are currently being traded on the market and how they could be separated into groups. By first reducing dimensions and using the k-means algorithm, I created visualizations in order to share my findings with the board.
+Accountaibility Accounting, a hypothetical investment bank, wants to offer a new cryptocurrency investment portfolio and need a report including the cryptocurrencies that are currently being traded on the market and how they could be separated into groups. By first reducing dimensions and using the K-means algorithm, I created visualizations in order to share my findings with the board.
 
 ## Results
+- Using te Elbow Curve, I found that the best value for K was 4
+- Below is a screenshot of the 3D-Scatter plot with clusters and the PCA data:
+
 <img src='https://github.com/npantfoerder/cryptocurrencies/blob/master/Images/.png' width=800>
 
 ### Resources
