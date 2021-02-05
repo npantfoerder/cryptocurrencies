@@ -1,10 +1,9 @@
 # Unsupervised Machine Learning and Cryptocurrencies
 
 ## Purpose
-Accountaibility Accounting, a hypothetical investment bank, wants to offer a new cryptocurrency investment portfolio and want a report that includes the cryptocurrencies that are currently being traded on the market and how they could be grouped. By reducing dimensions and using the k-means algorithm, I created visualizations in order to share findings with the board.
+Accountaibility Accounting, a hypothetical investment bank, wants to offer a new cryptocurrency investment portfolio and need a report including the cryptocurrencies that are currently being traded on the market and how they could be separated into groups. By first reducing dimensions and using the k-means algorithm, I created visualizations in order to share my findings with the board.
 
 ## Results
-
 <img src='https://github.com/npantfoerder/cryptocurrencies/blob/master/Images/.png' width=800>
 
 ### Resources
