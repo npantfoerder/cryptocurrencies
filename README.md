@@ -7,7 +7,7 @@ Accountaibility Accounting, a hypothetical investment bank, wants to offer a new
 - Using te Elbow Curve, I found that the best value for K was 4
 - Below is a screenshot of the 3D-Scatter plot with clusters and the PCA data:
 
-<img src='https://github.com/npantfoerder/cryptocurrencies/blob/master/Images/.png' width=800>
+<img src='https://github.com/npantfoerder/cryptocurrencies/blob/master/kmeans_clusters.png' width=800>
 
 ### Resources
 - Data Source: crypto_data.csv from CryptoCompare (https://min-api.cryptocompare.com/data/all/coinlist)
